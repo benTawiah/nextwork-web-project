@@ -54,7 +54,7 @@ To get this project up and running on your local machine, follow these steps:
 
 ## Contact
 If you have any questions or comments about the NextWork Web Project, please contact:
-ben10 - [Your Email](mailto:benjamintawiah64@gmail.com)
+ben10 - [benjamintawiah64@gmail.com](mailto:)
 
 <br>
 
